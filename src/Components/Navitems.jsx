@@ -61,10 +61,10 @@ const Navitems = () => {
                   </li>
                 </ul>
               </div>
-              <Link to="/sign-up" className="lab-btn me-3 d-none d-md-block">
+              <Link to="#" className="lab-btn me-3 d-none d-md-block">
                 Create Account
               </Link>
-              <Link to="/sign-up" className="d-none d-md-block">
+              <Link to="#" className="d-none d-md-block">
                 Login
               </Link>
               <div>

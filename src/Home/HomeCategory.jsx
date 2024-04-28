@@ -7,13 +7,14 @@ const btnText = "Get Started Now";
 const categoryList = [
   {
     imgUrl:
-      "https://m.media-amazon.com/images/I/41tp0JPPlmL._AC_UF1000,1000_QL80_.jpg",
+      "https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-mechanical-mini-mac/gallery/space-gray/mx-mechanical-mini-for-mac-keyboard-top-view-space-grey-us.png?v=1",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "DSLR Camera",
   },
   {
-    imgUrl: "https://m.media-amazon.com/images/I/61Qe0euJJZL.jpg",
+    imgUrl:
+      "https://d2s30hray1l0uq.cloudfront.net/frontend/shoe-photography-featured-image.jpg ",
     imgAlt: "category rajibraj91 rajibraj",
     iconName: "icofont-brand-windows",
     title: "Shoes",
